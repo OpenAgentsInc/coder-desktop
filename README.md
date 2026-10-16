@@ -1,3 +1,10 @@
+> **This repository has moved and is archived (2026-10-16).** The Coder
+> Desktop fork of Zeron now lives in the OpenAgents monorepo at
+> [`apps/openagents/`](https://github.com/OpenAgentsInc/openagents/tree/main/apps/openagents),
+> where it becomes the OpenAgents desktop and mobile apps. It was imported with
+> this repository's full history. Make changes there; issues are tracked in
+> [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents/issues).
+
 # Coder Desktop
 
 Coder Desktop (the app is called **Coder**) is OpenAgents' desktop app for
